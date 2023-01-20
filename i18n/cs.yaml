@@ -19,6 +19,9 @@
 - id: author_item
   translation: "Autor: "
 
+- id: by
+  translation: "autor "
+
 # posts
 - id: prev
   translation: Předchozí
@@ -62,16 +65,16 @@
 
 # copyright
 - id: author
-  translation: Author
+  translation: Autor
 
 - id: lastMod
-  translation: LastMod
+  translation: Datum
 
 - id: markdown
   translation: Markdown
 
 - id: license
-  translation: License
+  translation: Licence
 
 # counter
 - id: counter_archives
