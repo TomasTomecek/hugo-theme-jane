@@ -1,6 +1,6 @@
 <div class="post-meta">
   <div class="post-meta-author">
-    by
+    {{ i18n "by" }}
     {{- $author_id := .Params.author | default .Site.Author.name -}}
     {{- $author := (index ($.Site.Data.authors | default dict) $author_id) -}}
     {{- $author_lang := (index ($author | default dict) .Site.Language.Lang) -}}
