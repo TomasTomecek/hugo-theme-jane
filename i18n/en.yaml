@@ -19,6 +19,9 @@
 - id: author_item
   translation: "Author: "
 
+- id: by
+  translation: by
+
 # posts
 - id: prev
   translation: Prev
